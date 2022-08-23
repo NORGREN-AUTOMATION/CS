@@ -1,0 +1,8 @@
+[submodule "FW_Gripper_Teensy"]
+	path = FW_Gripper_Teensy
+	url = https://github.com/NORGREN-AUTOMATION/FW_Gripper_Teensy.git
+	branch = main
+[submodule "SO_GripperAPI"]
+	path = SO_GripperAPI
+	url = https://github.com/NORGREN-AUTOMATION/SO_GripperAPI.git
+	branch = main
