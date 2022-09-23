@@ -6,3 +6,7 @@
 	path = SO_GripperAPI
 	url = https://github.com/NORGREN-AUTOMATION/SO_GripperAPI.git
 	branch = main
+[submodule "SVC_GripperClient"]
+	path = SVC_GripperClient
+	url = https://github.com/NORGREN-AUTOMATION/SVC_GripperClient.git
+	branch = main
